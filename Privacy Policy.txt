@@ -1,0 +1,22 @@
+**Privacy Policy**
+
+Effective Date: 03/01/2025
+
+**1. Information We Collect**
+We collect the following data when you interact with our chatbot:
+- Your questions and the chatbot's responses.
+- Any files or information you upload.
+
+**2. How We Use Your Information**
+The information collected is used to:
+- Provide answers to your queries.
+- Improve our chatbot's performance.
+
+**3. Data Sharing**
+We do not share your data with third parties.
+
+**4. Data Retention**
+We retain your data for the duration of the session. Logs may be stored for debugging purposes but will be anonymized.
+
+**5. Contact Us**
+If you have questions or concerns about this Privacy Policy, contact us at [Insert Contact Email].
