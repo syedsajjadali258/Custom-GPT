@@ -19,4 +19,4 @@ We do not share your data with third parties.
 We retain your data for the duration of the session. Logs may be stored for debugging purposes but will be anonymized.
 
 **5. Contact Us**
-If you have questions or concerns about this Privacy Policy, contact us at [Insert Contact Email].
+If you have questions or concerns about this Privacy Policy, contact us at intragpt@gmail.com
